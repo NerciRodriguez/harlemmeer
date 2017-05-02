@@ -1,0 +1,49 @@
+html, body
+{
+  height:100%;
+  margin:0;
+}
+/*#nav
+{
+  height:15%;
+  background-color:yellow;
+}
+*/
+#side
+{
+  height:70%;
+  background-color:#fffd7c;
+  width:30%;
+  float:left;
+}
+#main1
+{
+  background-color:#ffff66;
+  background-image: url("/img/East playground.jpg");
+  height:70%;
+  width:30%;
+  float:left;
+}
+
+#main2
+{
+  height:70%;
+  width:70%;
+  float:right;
+}
+.mid
+{
+  width:33.3%;
+  border:1px solid black;
+  box-sizing:border-box;
+  height:50%;
+  float:left;
+}
+/*
+#footer
+{
+  height:15%;
+  background-color:gray;
+  clear:both;
+}
+*/
